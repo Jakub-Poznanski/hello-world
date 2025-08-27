@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the github flow
+My name is Jakub, I'm a physics student at UConn.
